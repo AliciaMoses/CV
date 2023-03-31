@@ -1,10 +1,24 @@
-## Your Name
+## Alicia Moses
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a long-time hobbyist coder turned full-stack developer, with a genuine curiosity for all things technology and innovation.
+
+My experience in creating diverse web and desktop applications has strengthened my programming and design skills. 
+
+I value a creative process that is both inspired and grounded in design principles, leading to engaging and inclusive user experiences. 
+
+I'm also enthusiastic about data-driven approaches, striving to find the right harmony between imaginative solutions and logical thinking. 
+
+As a recent Makers Academy graduate, I'm eager to grow my skillset and collaborate on projects that explore new technologies and focus on user-centered solutions.
+
+## Technical Experience 
+
+
+#### Makers Academy (start_date to end_date)
+
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
+| Name                         | Description       | Tech/tools        | 
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
@@ -45,14 +59,7 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+
 
 #### Your University / College (start_date to end_date)
 
