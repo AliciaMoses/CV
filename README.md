@@ -13,7 +13,26 @@ As a recent Makers Academy graduate, I'm eager to grow my skillset and collabora
 ## Technical Experience 
 
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (November 2022 to March 2023)
+⬥ Utilised CLI git commands, Git branching models, and Unix system shell commands.
+
+⬥ Collaborated effectively in pair programming and group projects using agile workflows. 
+
+⬥ Implemented UX/UI principles for responsive, intuitive designs in all group projects. 
+
+⬥ Developed assistive tools and diagramming frameworks for backend MVC architecture. 
+
+⬥ Practiced various SDLC principles, including waterfall, Scrum, Kanban, and SAFe. 
+
+⬥ Utilized Monday, Jira, and Miro to optimize agile workflows. 
+
+⬥ Enhanced debugging, testing, and value-driven development skills with TDD/BDD approaches. 
+
+⬥ Built upon data management skills working with SQL and NoSQL databases. 
+
+⬥ Learned web architecture, HTTP protocols, and client-server models. 
+
+⬥ Developed RESTful APIs, utilizing external APIs & automating CRUD operations via Mongoose.
 
 
 ## Projects
